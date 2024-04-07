@@ -26,13 +26,13 @@ To get started, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/solar-irradiance-project.git
+   https://github.com/pt-kunal-mishra/solar-irradiance-forecasting.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd solar-irradiance-project
+   cd solar-irradiance-forecasting
    ```
 
 3. Launch Jupyter notebook:
@@ -41,7 +41,7 @@ To get started, follow these steps:
    jupyter notebook
    ```
 
-4. Open the `solar_irradiance_analysis.ipynb` notebook and execute the cells sequentially to analyze the data.
+4. Open the `Solar_Irradiance_Forecasting_kunal_yash.ipynb` notebook and execute the cells sequentially to analyze the data.
 
 ## Analysis
 
