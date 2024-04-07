@@ -62,8 +62,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-The dataset used in this project is sourced from [provide_source_here]. We acknowledge their contribution to scientific research.
+The dataset used in this project is sourced from Kaggle.com. We acknowledge their contribution to scientific research.
 
----
 
-**Note:** Replace `[provide_source_here]` with the actual source of the dataset, and update the repository link in the installation section with your GitHub username if you intend to host the project there.
