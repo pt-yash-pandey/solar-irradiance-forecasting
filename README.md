@@ -64,4 +64,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 The dataset used in this project is sourced from Kaggle.com. We acknowledge their contribution to scientific research.
 
+@Yash Pandey
+@kunal kumar Mishra
+
 
